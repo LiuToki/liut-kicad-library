@@ -23,7 +23,7 @@
 			)
 		)
 		(property "Footprint" "Vibration_Actuator:LD14-002"
-			(at 0 -3.81 0)
+			(at 0 -6.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32,7 +32,7 @@
 			)
 		)
 		(property "Datasheet" "https://akizukidenshi.com/goodsaffix/LD14-002.png"
-			(at 0 -6.35 0)
+			(at 0 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -52,7 +52,7 @@
 		(symbol "LD14-002_1_1"
 			(polyline
 				(pts
-					(xy -7.5 2.38) (xy 7.5 2.38) (xy 7.5 -2.62) (xy -7.5 -2.62) (xy -7.5 2.38)
+					(xy -7.5 2.38) (xy 7.5 2.38) (xy 7.5 -5) (xy -7.5 -5) (xy -7.5 2.38)
 				)
 				(stroke
 					(width 0)
@@ -91,6 +91,42 @@
 					)
 				)
 				(number "2"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at -10.16 -2.54 0)
+				(length 2.54)
+				(name "INOUT3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "3"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin bidirectional line
+				(at 10.16 -2.54 180)
+				(length 2.54)
+				(name "INOUT4"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "4"
 					(effects
 						(font
 							(size 1.27 1.27)
