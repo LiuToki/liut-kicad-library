@@ -28,5 +28,7 @@
 ## Author
 [LiuToki](https://github.com/LiuToki)
 
+## [Guidelines](./docs/guidelines.md)
+
 ## License
-TODO
+[MIT](./LICENSE)
