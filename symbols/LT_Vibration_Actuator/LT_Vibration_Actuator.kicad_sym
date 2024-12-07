@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Vibration_Actuator:LD14-002"
+		(property "Footprint" "LT_Vibration_Actuator:LD14-002"
 			(at 0 -6.35 0)
 			(effects
 				(font

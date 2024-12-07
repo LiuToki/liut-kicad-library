@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" "Vibration_Actuator:LD14-002"
+	(property "Footprint" "LT_Vibration_Actuator:LD14-002"
 		(at 0 -17.7 0)
 		(unlocked yes)
 		(layer "F.Fab")
